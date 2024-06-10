@@ -43,7 +43,7 @@
     border-radius: 10px 0 0 10px;
     border: 1px solid gray;
     border-right: none;
-    color: gray;
+    color: black;
     outline: none;
     font-size: 16px;
     font-weight: bold;
